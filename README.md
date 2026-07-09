@@ -1,6 +1,6 @@
-# Hi, I'm Eduard 
+# Hi, I'm Eduard Gembikhner 
 
-I'm a 3rd-year Information Systems and Technologies student at ETU "LETI" in Saint Petersburg.
+I am a 3rd-year Information Systems and Technologies student at Saint Petersburg Electrotechnical University "LETI".
 I am focused on Data Science, Machine Learning and Data Analytics.
 
 ## About me
@@ -9,7 +9,7 @@ I am focused on Data Science, Machine Learning and Data Analytics.
 * Interested in Data Science, Machine Learning and AI
 * Working with Python, SQL and data analysis tools
 * Building educational and personal projects in analytics and machine learning
-* Looking for internship opportunities in Data Science, ML Engineering or Data Analytics
+* Currently preparing my GitHub portfolio for internship and junior-level opportunities
 
 ## Tech Stack
 
@@ -23,27 +23,31 @@ scikit-learn, linear regression, logistic regression, model evaluation, train/te
 matplotlib, seaborn
 
 **Databases and SQL:**
-PostgreSQL, JOIN, GROUP BY, HAVING, CTE, subqueries, window functions
+PostgreSQL, SQL, JOIN, GROUP BY, HAVING, CTE, subqueries, window functions
 
 **Tools:**
 Git, GitHub, VS Code, Jupyter Notebook
 
-## Projects
+## Portfolio Projects
 
-I am currently preparing and organizing my Data Science and Machine Learning portfolio.
+I am currently organizing my main Data Science, Machine Learning and SQL projects.
 
-Planned portfolio projects:
+Upcoming portfolio repositories:
 
-* User behavior and loyalty analysis
-* Sea turtle weight prediction with machine learning
-* Restaurant market exploratory data analysis
-* SQL analytics projects
+* **SQL Data Marts and Ad-hoc Analysis** — SQL project with data marts, analytical queries, joins, CTEs and window functions
+* **Sea Turtle Weight Prediction** — machine learning regression project for predicting sea turtle weight using biometric features
+* **Yandex Afisha User Loyalty Analysis** — data analysis project focused on user behavior, revenue, repeat orders and marketing insights
 
 ## Education
 
-Saint Petersburg Electrotechnical University "LETI"
+**Saint Petersburg Electrotechnical University "LETI"**
 Faculty of Computer Science and Technology
 Information Systems and Technologies, 3rd year
+
+## Languages
+
+* Russian — native
+* English — B1
 
 ## Contacts
 
