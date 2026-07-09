@@ -1,4 +1,4 @@
-# Hi, I'm Eduard 👋
+# Hi, I'm Eduard 
 
 I'm a 3rd-year Information Systems and Technologies student at ETU "LETI" in Saint Petersburg.
 I am focused on Data Science, Machine Learning and Data Analytics.
